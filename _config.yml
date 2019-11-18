@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: Clam-Test BBS
+description: About Clam-Test BBS
+plugins:
+  - jemoji
