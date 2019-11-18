@@ -13,7 +13,7 @@ You can try this link:
 
 您可透過以下連結加密連線初步體驗本站:
 
-https://term.clam.ml
+[https://term.clam.ml](https://term.clam.ml)
 
 
 
@@ -25,7 +25,7 @@ you can some apps for BBS , such as [PCman](https://pcman.ptt.cc/) with websocke
 
 您還可下載 [PCman](https://pcman.ptt.cc/) 最近新增的 Websocket 支援版本：
 
-https://github.com/pcman-bbs/pcman-windows/releases
+[https://github.com/pcman-bbs/pcman-windows/releases](https://github.com/pcman-bbs/pcman-windows/releases)
 
 and enter:
 
