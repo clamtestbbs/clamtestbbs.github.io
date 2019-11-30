@@ -2,7 +2,7 @@
 
 This is a site for telnet [BBS](//goo.gl/2KAMG) based on "Current Ptt" Project.
 
-基於 PttBBS 原始程式碼為基礎架設的[電子布告欄](//goo.gl/2KAMG)站台
+基於 PttBBS 原始程式碼為基礎架設的[電子布告欄系統](//goo.gl/2KAMG)站台
 
 [![](//i.imgur.com/iKESXcE.png)](https://term.clam.ml)
 
