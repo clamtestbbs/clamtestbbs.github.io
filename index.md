@@ -1,4 +1,4 @@
-# [Clam-Test BBS](https://term.clam.moe)
+# [Clam-Test BBS](https://www.clam.moe/bbs/)
 
 This is a site for telnet [BBS](//goo.gl/2KAMG) based on "Current Ptt" Project.
 
