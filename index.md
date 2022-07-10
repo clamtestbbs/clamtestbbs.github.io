@@ -47,7 +47,7 @@ to visit my site
 
 ---
 
-若你是用工作站或其他需要終端機的環境瀏覽本站，這邊也提供了 ssh 加密連線的服務，連線指令為：`ssh bbsu@clam.moe` (假設你終端機使用 **UTF-8** 編碼) ，本站提供的 ssh server 指紋如下：
+若您是用工作站或其他需要終端機的環境瀏覽本站，這邊也提供了 ssh 加密連線的服務，連線指令為：`ssh bbsu@clam.moe` (假設您的終端機使用 **UTF-8** 編碼) ，本站提供的 ssh server 指紋如下：
 
 ```
 1024 SHA256:aDrU+Ysnr6QmaSDCiTjMdRZ+sa7ZShxDtOoWa7OyvzY bbs@ctb (DSA)
@@ -56,7 +56,7 @@ to visit my site
 3072 SHA256:HcXb9jdEp/5ZjJqqfQpRyeRNxW526XfaZaz6N/rq3uI bbs@ctb (RSA)
 ```
 
-若初次登入提示訊息顯示之指紋內容與以上不符，*請勿連線至本站*，若請回報至本站，您可以在[這邊](https://github.com/clamtestbbs/clamtestbbs.github.io/issues)提 issue。
+若初次登入提示訊息顯示之指紋內容與以上不符，*請勿連線至本站*，並請協助回報至本站，您可以在[這邊](https://github.com/clamtestbbs/clamtestbbs.github.io/issues)提 issue。
 
 ## Other Information
 
