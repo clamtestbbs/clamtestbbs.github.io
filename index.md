@@ -1,6 +1,6 @@
 # [Clam-Test BBS](https://www.clam.moe/bbs/)
 
-This is a site for telnet [BBS](//goo.gl/2KAMG) based on "Current Ptt" Project.
+This is a site for terminal [BBS](//goo.gl/2KAMG) based on "Current Ptt" Project.
 
 基於 PttBBS 原始程式碼為基礎架設的[電子布告欄系統](https://goo.gl/2KAMG)站台
 
@@ -61,7 +61,7 @@ to visit my site
 
 其他相關實用資訊：
 
-* [Other exsisting telnet BBS site in Chinese](https://bbslist.github.io)
+* [Other exsisting terminal BBS site in Chinese](https://bbslist.github.io)
   - 其他已知現存中文電子布告欄站台
 
 + Install your own [PttBBS](https://github.com/ptt/pttbbs/wiki) ([UserGuide](PttManual))
